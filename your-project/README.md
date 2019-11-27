@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Ecological Footprint and Country Happiness]*
 
 *[Your Cohort, Campus & Date]*
 
